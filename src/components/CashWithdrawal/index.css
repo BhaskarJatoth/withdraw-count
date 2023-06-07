@@ -1,0 +1,65 @@
+.withdraw-bg-con {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.withdraw-card {
+  background-color: #150b3e;
+  width: 450px;
+  padding: 30px;
+  color: #d4d2db;
+  border-radius: 10px;
+  font-family: 'Roboto';
+}
+.withdraw-profile-con {
+  display: flex;
+  align-items: center;
+}
+.withdraw-profile-logo {
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #585076;
+  background-color: #c7d2fe;
+  border-radius: 10pc;
+  margin-right: 10px;
+}
+.withdraw-profile-name {
+  color: #c4c4c4;
+  font-size: 20px;
+}
+.withdraw-balance-con {
+  display: flex;
+  justify-content: space-between;
+}
+.withdraw-side-text {
+  color: #585076;
+  font-weight: 500;
+  font-size: 20px;
+}
+.withdraw-balance {
+  font-size: 28px;
+  font-weight: 600;
+}
+.withdraw-rupees-text {
+  font-size: 15px;
+  color: #585076;
+}
+.withdraw-sub-heading {
+  font-size: 22px;
+  font-weight: 500;
+}
+.withdraw-side-text {
+  color: #585076;
+  font-size: 18px;
+}
+.denomination-item-con {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 0;
+  list-style: none;
+}
